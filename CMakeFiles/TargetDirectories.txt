@@ -1,0 +1,3 @@
+/home/sergey/Рабочий стол/work/os_lab_4/CMakeFiles/rebuild_cache.dir
+/home/sergey/Рабочий стол/work/os_lab_4/CMakeFiles/os_lab_04.dir
+/home/sergey/Рабочий стол/work/os_lab_4/CMakeFiles/edit_cache.dir

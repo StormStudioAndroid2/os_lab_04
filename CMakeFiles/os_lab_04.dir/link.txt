@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread   CMakeFiles/os_lab_04.dir/main.c.o  -o os_lab_04 

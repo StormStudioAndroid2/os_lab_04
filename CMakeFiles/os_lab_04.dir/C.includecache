@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergey/Рабочий стол/work/os_lab_4/main.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+sys/mman.h
+-
+unistd.h
+-
+fcntl.h
+-
+semaphore.h
+-
+wait.h
+-
+sys/stat.h
+-
+stdbool.h
+-
+
